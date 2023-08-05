@@ -40,7 +40,7 @@ module.exports = {
     },
     entry: {
         // portal:'./resources/template/portal/__style.js',
-        src:'./src/js/main.js',
+        bootstrap:'./src/js/main.js',
     },
     output: {
         filename: "[name].js",
@@ -153,7 +153,7 @@ module.exports = {
             axios: 'axios',
         }),*/
         new MiniCssExtractPlugin({
-            filename: 'css/[name].css',
+            filename: '[name].css',
             ignoreOrder: false,
         }),
         new webpack.LoaderOptionsPlugin({

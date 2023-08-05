@@ -7,14 +7,18 @@
     <title>bootstrap test</title>
     <!-- font -->
     <link rel="stylesheet" href="https://cdn1.simorgh.app/simorgh/v3/font/iranyekan-fa/font-face.css" type="text/css">
-    <!-- option -->
-    <link rel="stylesheet" href="https://cdn1.simorgh.app/simorgh/v3/core/ex1.css" type="text/css">
     <!-- reset -->
     <link rel="stylesheet" href="https://cdn1.simorgh.app/simorgh/v3/reset/ex1.css" type="text/css">
-    <!-- pallet color -->
-    <link rel="stylesheet" href="https://cdn1.simorgh.app/simorgh/v3/css/color/google/all.css" type="text/css">
-    <!-- style -->
-    <link rel="stylesheet" href="./dist/css/src.css">
+    <!-- config -->
+    <link rel="stylesheet" href="https://cdn1.simorgh.app/simorgh/v3/config/ex1.css" type="text/css">
+    <!-- color palette -->
+    <link rel="stylesheet" href="https://cdn1.simorgh.app/simorgh/v3/color/google/required-var.css" type="text/css">
+    <link rel="stylesheet" href="https://cdn1.simorgh.app/simorgh/v3/color/google/primary/red.css" type="text/css"> <!-- primary = panel-->
+
+    <link rel="stylesheet" href="https://cdn1.simorgh.app/simorgh/v3/color/required-class.css" type="text/css">
+    <link rel="stylesheet" href="https://cdn1.simorgh.app/simorgh/v3/color/primary-class.css" type="text/css">
+    <!-- bootstrap -->
+    <link rel="stylesheet" href="./dist/bootstrap.css">
 </head>
 <body>
 <button type="button" class="btn btn-primary">Primary</button>
@@ -30,6 +34,6 @@
 
     <p>test</p>
     <button class="">test</button>
-    <script src="./dist/src.js"></script>
+    <script src="./dist/bootstrap.js"></script>
 </body>
 </html>
