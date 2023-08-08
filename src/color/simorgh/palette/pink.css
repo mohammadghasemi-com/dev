@@ -1,6 +1,15 @@
 :root{
-  --pa-bg-pink     : #FF0088;
+  --pa-bg-pink     : var(--pa-bg-pink-500);
   --pa-color-pink  : white;
+
+  --pa-bg-pink-h     : var(--pa-bg-pink-500);
+  --pa-color-pink-h  : white;
+
+  --pa-bg-pink-a     : var(--pa-bg-pink-600);
+  --pa-color-pink-a  : white;
+
+  --pa-bg-pink-f     : var(--pa-bg-pink-700);
+  --pa-color-pink-f  : white;
 
   --pa-bg-pink-50  : #FFF2F9;
   --pa-bg-pink-100 : #FFD7EC;

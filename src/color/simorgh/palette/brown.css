@@ -1,6 +1,15 @@
 :root{
-  --pa-bg-brown     : #BD986C;
+  --pa-bg-brown     : var(--pa-bg-brown-500);
   --pa-color-brown  : white;
+
+  --pa-bg-brown-h     : var(--pa-bg-brown-500);
+  --pa-color-brown-h  : white;
+
+  --pa-bg-brown-a     : var(--pa-bg-brown-600);
+  --pa-color-brown-a  : white;
+
+  --pa-bg-brown-f     : var(--pa-bg-brown-700);
+  --pa-color-brown-f  : white;
 
   --pa-bg-brown-50  : #FEF6EC;
   --pa-bg-brown-100 : #F1E3D2;

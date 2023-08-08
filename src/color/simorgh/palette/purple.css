@@ -1,6 +1,15 @@
 :root{
-  --pa-bg-purple     : #A000BD;
+  --pa-bg-purple     : var(--pa-bg-purple-500);
   --pa-color-purple  : white;
+
+  --pa-bg-purple-h     : var(--pa-bg-purple-500);
+  --pa-color-purple-h  : white;
+
+  --pa-bg-purple-a     : var(--pa-bg-purple-600);
+  --pa-color-purple-a  : white;
+
+  --pa-bg-purple-f     : var(--pa-bg-purple-700);
+  --pa-color-purple-f  : white;
 
   --pa-bg-purple-50  : #FAF2FC;
   --pa-bg-purple-100 : #F0D7F5;

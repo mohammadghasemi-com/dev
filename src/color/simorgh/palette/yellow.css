@@ -1,6 +1,15 @@
 :root{
-  --pa-bg-yellow     : #FFFF00;
-  --pa-color-yellow  : #424242;
+  --pa-bg-yellow     : var(--pa-bg-yellow-500);
+  --pa-color-yellow  : white;
+
+  --pa-bg-yellow-h     : var(--pa-bg-yellow-500);
+  --pa-color-yellow-h  : white;
+
+  --pa-bg-yellow-a     : var(--pa-bg-yellow-600);
+  --pa-color-yellow-a  : white;
+
+  --pa-bg-yellow-f     : var(--pa-bg-yellow-700);
+  --pa-color-yellow-f  : white;
 
   --pa-bg-yellow-50  : #FFFFED;
   --pa-bg-yellow-100 : #FFFFC8;

@@ -1,6 +1,15 @@
 :root{
-  --pa-bg-deep-orange     : #FF4800;
+  --pa-bg-deep-orange     : var(--pa-bg-deep-orange-500);
   --pa-color-deep-orange  : white;
+
+  --pa-bg-deep-orange-h     : var(--pa-bg-deep-orange-500);
+  --pa-color-deep-orange-h  : white;
+
+  --pa-bg-deep-orange-a     : var(--pa-bg-deep-orange-600);
+  --pa-color-deep-orange-a  : white;
+
+  --pa-bg-deep-orange-f     : var(--pa-bg-deep-orange-700);
+  --pa-color-deep-orange-f  : white;
 
   --pa-bg-deep-orange-50  : #FFF5F2;
   --pa-bg-deep-orange-100 : #FFE2D7;

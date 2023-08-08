@@ -1,6 +1,15 @@
 :root{
-  --pa-bg-light-blue     : #00CCFF;
+  --pa-bg-light-blue     : var(--pa-bg-light-blue-500);
   --pa-color-light-blue  : white;
+
+  --pa-bg-light-blue-h     : var(--pa-bg-light-blue-500);
+  --pa-color-light-blue-h  : white;
+
+  --pa-bg-light-blue-a     : var(--pa-bg-light-blue-600);
+  --pa-color-light-blue-a  : white;
+
+  --pa-bg-light-blue-f     : var(--pa-bg-light-blue-700);
+  --pa-color-light-blue-f  : white;
 
   --pa-bg-light-blue-50  : #F2FCFF;
   --pa-bg-light-blue-100 : #D7F7FF;
