@@ -1,26 +1,3 @@
 :root{
-  --pa-bg-amber     : #ffc107;
-  --pa-color-amber  : white;
-
-  --pa-bg-amber-50  : #fff8e1;
-  --pa-bg-amber-100 : #ffecb3;
-  --pa-bg-amber-200 : #ffe082;
-  --pa-bg-amber-300 : #ffd54f;
-  --pa-bg-amber-400 : #ffca28;
-  --pa-bg-amber-500 : #ffc107;
-  --pa-bg-amber-600 : #ffb300;
-  --pa-bg-amber-700 : #ffa000;
-  --pa-bg-amber-800 : #ff8f00;
-  --pa-bg-amber-900 : #ff6f00;
-
-  --pa-color-amber-50  : #424242;
-  --pa-color-amber-100 : #424242;
-  --pa-color-amber-200 : #424242;
-  --pa-color-amber-300 : #424242;
-  --pa-color-amber-400 : #424242;
-  --pa-color-amber-500 : white;
-  --pa-color-amber-600 : white;
-  --pa-color-amber-700 : white;
-  --pa-color-amber-800 : white;
-  --pa-color-amber-900 : white;
+  background-color: red;
 }
