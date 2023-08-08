@@ -2,13 +2,13 @@
   --pa-bg-primary     : var(--pa-bg-primary-500);
   --pa-color-primary  : white;
 
-  --pa-bg-primary-h     : var(--pa-bg-primary-500);
+  --pa-bg-primary-h     : var(--pa-bg-primary-600);
   --pa-color-primary-h  : white;
 
-  --pa-bg-primary-a     : var(--pa-bg-primary-600);
+  --pa-bg-primary-a     : var(--pa-bg-primary-700);
   --pa-color-primary-a  : white;
 
-  --pa-bg-primary-f     : var(--pa-bg-primary-700);
+  --pa-bg-primary-f     : var(--pa-bg-primary-500);
   --pa-color-primary-f  : white;
 
   --pa-bg-primary-50  : #FFF2F9;

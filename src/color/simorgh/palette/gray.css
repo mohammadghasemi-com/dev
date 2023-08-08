@@ -2,13 +2,13 @@
   --pa-bg-gray     : var(--pa-bg-gray-500);
   --pa-color-gray  : white;
 
-  --pa-bg-gray-h     : var(--pa-bg-gray-500);
+  --pa-bg-gray-h     : var(--pa-bg-gray-600);
   --pa-color-gray-h  : white;
 
-  --pa-bg-gray-a     : var(--pa-bg-gray-600);
+  --pa-bg-gray-a     : var(--pa-bg-gray-700);
   --pa-color-gray-a  : white;
 
-  --pa-bg-gray-f     : var(--pa-bg-gray-700);
+  --pa-bg-gray-f     : var(--pa-bg-gray-500);
   --pa-color-gray-f  : white;
 
   --pa-bg-gray-50  : #fafafa;

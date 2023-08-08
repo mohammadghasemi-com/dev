@@ -2,13 +2,13 @@
   --pa-bg-blue-gray     : var(--pa-bg-blue-gray-500);
   --pa-color-blue-gray  : white;
 
-  --pa-bg-blue-gray-h     : var(--pa-bg-blue-gray-500);
+  --pa-bg-blue-gray-h     : var(--pa-bg-blue-gray-600);
   --pa-color-blue-gray-h  : white;
 
-  --pa-bg-blue-gray-a     : var(--pa-bg-blue-gray-600);
+  --pa-bg-blue-gray-a     : var(--pa-bg-blue-gray-700);
   --pa-color-blue-gray-a  : white;
 
-  --pa-bg-blue-gray-f     : var(--pa-bg-blue-gray-700);
+  --pa-bg-blue-gray-f     : var(--pa-bg-blue-gray-500);
   --pa-color-blue-gray-f  : white;
 
   --pa-bg-blue-gray-50  : #F5F8F9;

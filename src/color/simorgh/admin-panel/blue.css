@@ -2,13 +2,13 @@
   --pa-bg-admin-panel     : var(--pa-bg-admin-panel-500);
   --pa-color-admin-panel  : white;
 
-  --pa-bg-admin-panel-h     : var(--pa-bg-admin-panel-500);
+  --pa-bg-admin-panel-h     : var(--pa-bg-admin-panel-600);
   --pa-color-admin-panel-h  : white;
 
-  --pa-bg-admin-panel-a     : var(--pa-bg-admin-panel-600);
+  --pa-bg-admin-panel-a     : var(--pa-bg-admin-panel-700);
   --pa-color-admin-panel-a  : white;
 
-  --pa-bg-admin-panel-f     : var(--pa-bg-admin-panel-700);
+  --pa-bg-admin-panel-f     : var(--pa-bg-admin-panel-500);
   --pa-color-admin-panel-f  : white;
 
   --pa-bg-admin-panel-50  : #F2F9FF;

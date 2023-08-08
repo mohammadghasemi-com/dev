@@ -2,13 +2,13 @@
   --pa-bg-secondary     : var(--pa-bg-secondary-500);
   --pa-color-secondary  : white;
 
-  --pa-bg-secondary-h     : var(--pa-bg-secondary-500);
+  --pa-bg-secondary-h     : var(--pa-bg-secondary-600);
   --pa-color-secondary-h  : white;
 
-  --pa-bg-secondary-a     : var(--pa-bg-secondary-600);
+  --pa-bg-secondary-a     : var(--pa-bg-secondary-700);
   --pa-color-secondary-a  : white;
 
-  --pa-bg-secondary-f     : var(--pa-bg-secondary-700);
+  --pa-bg-secondary-f     : var(--pa-bg-secondary-500);
   --pa-color-secondary-f  : white;
 
   --pa-bg-secondary-50  : #fff8e1;
