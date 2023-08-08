@@ -1,5 +1,5 @@
 @font-face {
-  font-family: simorgh_font;
+  font-family: IRANSans;
   font-style: normal;
   font-weight: normal;
   src: url('./eot/IRANSansWeb(FaNum).eot');
@@ -9,7 +9,7 @@
   url('./ttf/IRANSansWeb(FaNum).ttf') format('truetype');
 }
 @font-face {
-  font-family: simorgh_font;
+  font-family: IRANSans;
   font-style: normal;
   font-weight: bold;
   src: url('./eot/IRANSansWeb(FaNum)_Bold.eot');
@@ -19,7 +19,7 @@
   url('./ttf/IRANSansWeb(FaNum)_Bold.ttf') format('truetype');
 }
 @font-face {
-  font-family: simorgh_font;
+  font-family: IRANSans;
   font-style: normal;
   font-weight: 300;
   src: url('./eot/IRANSansWeb(FaNum)_Light.eot');

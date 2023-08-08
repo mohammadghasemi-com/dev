@@ -6,26 +6,36 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>bootstrap test</title>
     <!-- font -->
-<!--    <link rel="stylesheet" href="https://cdn1.simorgh.app/simorgh/v3/font/iranyekan-fa/font-face.css" type="text/css">-->
-    <link rel="stylesheet" href="./src/font/iranyekan-fa/font-face.css" type="text/css">
+<!--    <link rel="stylesheet" href="https://cdn1.simorgh.app/simorgh/v3/font/iransans-fa/font-face.css" type="text/css">-->
+    <link rel="stylesheet" href="./src/font/iransans-fa/font-face.css" type="text/css">
     <!-- reset -->
 <!--    <link rel="stylesheet" href="https://cdn1.simorgh.app/simorgh/v3/reset/ex1.css" type="text/css">-->
     <!-- config -->
-    <link rel="stylesheet" href="https://cdn1.simorgh.app/simorgh/v3/config/ex1.css" type="text/css">
+<!--    <link rel="stylesheet" href="https://cdn1.simorgh.app/simorgh/v3/config/ex1.css" type="text/css">-->
     <!-- color palette -->
-    <link rel="stylesheet" href="https://cdn1.simorgh.app/simorgh/v3/color/google/required-var.css" type="text/css">
-    <link rel="stylesheet" href="https://cdn1.simorgh.app/simorgh/v3/color/simorgh/primary/blue.css" type="text/css"> <!-- primary = panel-->
+    <link rel="stylesheet" href="https://cdn1.simorgh.app/simorgh/v3/color/simorgh/admin-panel/indigo.css" type="text/css">
+    <link rel="stylesheet" href="https://cdn1.simorgh.app/simorgh/v3/color/simorgh/primary/indigo.css" type="text/css"> <!-- primary = panel-->
+    <link rel="stylesheet" href="https://cdn1.simorgh.app/simorgh/v3/color/simorgh/secondary/orange.css" type="text/css"> <!-- primary = panel-->
 
-    <link rel="stylesheet" href="https://cdn1.simorgh.app/simorgh/v3/color/required-class.css" type="text/css">
+
+    <!--<link rel="stylesheet" href="https://cdn1.simorgh.app/simorgh/v3/color/required-class.css" type="text/css">
     <link rel="stylesheet" href="https://cdn1.simorgh.app/simorgh/v3/color/primary-class.css" type="text/css">
+    <link rel="stylesheet" href="https://cdn1.simorgh.app/simorgh/v3/color/secondary-class.css" type="text/css">-->
     <!-- bootstrap -->
-    <link rel="stylesheet" href="./dist/bootstrap.css">
+    <link rel="stylesheet" href="./cdn/bootstrap.rtl.css">
+<!--    <link rel="stylesheet" href="./dist/bootstrap.css">-->
 <!--    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">-->
-
+    <style>
+        .mg-alert-primary{
+            background-color: var(--pa-primary-50);
+            color: var(--pa-primary-400);
+            border:1px solid var(--pa-primary-200);
+        }
+    </style>
 </head>
 <body>
-    <button type="button" class="btn btn-primary">تست اصلی</button>
-    <button type="button" class="btn btn-secondary">Secondary</button>
+    <button type="button" class="btn btn-lg btn-outline-primary">تست اصلی</button>
+    <button type="button" class="btn btn-lg btn-secondary">Secondary</button>
     <button type="button" class="btn btn-success">Success</button>
     <button type="button" class="btn btn-danger">Danger</button>
     <button type="button" class="btn btn-warning">Warning</button>
@@ -36,7 +46,7 @@
     <div class="alert alert-primary" role="alert">
         A simple primary alert—check it out!
     </div>
-    <div class="alert alert-secondary" role="alert">
+    <div class="alert mg-alert-primary" role="alert">
         A simple secondary alert—check it out!
     </div>
     <div class="alert alert-success" role="alert">

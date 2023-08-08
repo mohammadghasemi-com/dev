@@ -1,0 +1,26 @@
+:root{
+  --pa-bg-secondary     : #06A31D;
+  --pa-color-secondary  : white;
+
+  --pa-bg-secondary-50  : #F2FAF3;
+  --pa-bg-secondary-100 : #E5F5E7;
+  --pa-bg-secondary-200 : #BDE7C4;
+  --pa-bg-secondary-300 : #89D394;
+  --pa-bg-secondary-400 : #20AD35;
+  --pa-bg-secondary-500 : #06A31D;
+  --pa-bg-secondary-600 : #05921A;
+  --pa-bg-secondary-700 : #058117;
+  --pa-bg-secondary-800 : #047014;
+  --pa-bg-secondary-900 : #03560F;
+
+  --pa-color-secondary-50  : #424242;
+  --pa-color-secondary-100 : #424242;
+  --pa-color-secondary-200 : #424242;
+  --pa-color-secondary-300 : #424242;
+  --pa-color-secondary-400 : #424242;
+  --pa-color-secondary-500 : white;
+  --pa-color-secondary-600 : white;
+  --pa-color-secondary-700 : white;
+  --pa-color-secondary-800 : white;
+  --pa-color-secondary-900 : white;
+}

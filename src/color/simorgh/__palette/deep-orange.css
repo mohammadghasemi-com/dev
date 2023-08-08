@@ -1,0 +1,26 @@
+:root{
+  --pa-bg-deep-orange     : #FF4800;
+  --pa-color-deep-orange  : white;
+
+  --pa-bg-deep-orange-50  : #FFF5F2;
+  --pa-bg-deep-orange-100 : #FFE2D7;
+  --pa-bg-deep-orange-200 : #FFCFBC;
+  --pa-bg-deep-orange-300 : #FF6F36;
+  --pa-bg-deep-orange-400 : #FF5B1B;
+  --pa-bg-deep-orange-500 : #FF4800;
+  --pa-bg-deep-orange-600 : #E44000;
+  --pa-bg-deep-orange-700 : #C93900;
+  --pa-bg-deep-orange-800 : #BC3500;
+  --pa-bg-deep-orange-900 : #942A00;
+
+  --pa-color-deep-orange-50  : #424242;
+  --pa-color-deep-orange-100 : #424242;
+  --pa-color-deep-orange-200 : #424242;
+  --pa-color-deep-orange-300 : #424242;
+  --pa-color-deep-orange-400 : #424242;
+  --pa-color-deep-orange-500 : white;
+  --pa-color-deep-orange-600 : white;
+  --pa-color-deep-orange-700 : white;
+  --pa-color-deep-orange-800 : white;
+  --pa-color-deep-orange-900 : white;
+}
