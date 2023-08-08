@@ -13,9 +13,9 @@
     <!-- config -->
 <!--    <link rel="stylesheet" href="https://cdn1.simorgh.app/simorgh/v3/config/ex1.css" type="text/css">-->
     <!-- color palette -->
-    <link rel="stylesheet" href="https://cdn1.simorgh.app/simorgh/v3/color/simorgh/admin-panel/indigo.css" type="text/css">
-    <link rel="stylesheet" href="https://cdn1.simorgh.app/simorgh/v3/color/simorgh/primary/indigo.css" type="text/css"> <!-- primary = panel-->
-    <link rel="stylesheet" href="https://cdn1.simorgh.app/simorgh/v3/color/simorgh/secondary/orange.css" type="text/css"> <!-- primary = panel-->
+    <link rel="stylesheet" href="https://raw.githubusercontent.com/simorghbu/mybootstrap/main/src/color/simorgh/admin-panel/indigo.css" type="text/css">
+    <link rel="stylesheet" href="https://raw.githubusercontent.com/simorghbu/mybootstrap/main/src/color/simorgh/primary/indigo.css" type="text/css"> <!-- primary = panel-->
+    <link rel="stylesheet" href="https://raw.githubusercontent.com/simorghbu/mybootstrap/main/src/color/simorgh/secondary/orange.css" type="text/css"> <!-- primary = panel-->
 
 
     <!--<link rel="stylesheet" href="https://cdn1.simorgh.app/simorgh/v3/color/required-class.css" type="text/css">
