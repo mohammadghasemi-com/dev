@@ -14,16 +14,16 @@
 <!--    <link rel="stylesheet" href="https://cdn1.simorgh.app/simorgh/v3/config/ex1.css" type="text/css">-->
     <!-- color palette -->
     <link rel="stylesheet" href="https://simorghbu.github.io/dev/src/color/simorgh/admin-panel/indigo.css" type="text/css">
-    <link rel="stylesheet" href="https://simorghbu.github.io/dev/src/color/simorgh/primary/indigo.css" type="text/css"> <!-- primary = panel-->
-    <link rel="stylesheet" href="https://simorghbu.github.io/dev/src/color/simorgh/secondary/orange.css" type="text/css"> <!-- primary = panel-->
+    <link rel="stylesheet" href="https://simorghbu.github.io/dev/src/color/simorgh/primary/indigo.css" type="text/css">
+    <link rel="stylesheet" href="https://simorghbu.github.io/dev/src/color/simorgh/secondary/orange.css" type="text/css">
 
-    <link rel="stylesheet" href="https://simorghbu.github.io/dev/src/color/simorgh/__palette/blue.css" type="text/css">
-    <link rel="stylesheet" href="https://simorghbu.github.io/dev/src/color/simorgh/__palette/indigo.css" type="text/css">
-    <link rel="stylesheet" href="https://simorghbu.github.io/dev/src/color/simorgh/__palette/red.css" type="text/css">
-    <link rel="stylesheet" href="https://simorghbu.github.io/dev/src/color/simorgh/__palette/orange.css" type="text/css">
-    <link rel="stylesheet" href="https://simorghbu.github.io/dev/src/color/simorgh/__palette/green.css" type="text/css">
-    <link rel="stylesheet" href="https://simorghbu.github.io/dev/src/color/simorgh/__palette/yellow.css" type="text/css">
-    <link rel="stylesheet" href="https://simorghbu.github.io/dev/src/color/simorgh/__palette/gray.css" type="text/css">
+    <link rel="stylesheet" href="https://simorghbu.github.io/dev/src/color/simorgh/palette/blue.css" type="text/css">
+    <link rel="stylesheet" href="https://simorghbu.github.io/dev/src/color/simorgh/palette/indigo.css" type="text/css">
+    <link rel="stylesheet" href="https://simorghbu.github.io/dev/src/color/simorgh/palette/red.css" type="text/css">
+    <link rel="stylesheet" href="https://simorghbu.github.io/dev/src/color/simorgh/palette/orange.css" type="text/css">
+    <link rel="stylesheet" href="https://simorghbu.github.io/dev/src/color/simorgh/palette/green.css" type="text/css">
+    <link rel="stylesheet" href="https://simorghbu.github.io/dev/src/color/simorgh/palette/yellow.css" type="text/css">
+    <link rel="stylesheet" href="https://simorghbu.github.io/dev/src/color/simorgh/palette/gray.css" type="text/css">
 
 
     <!--<link rel="stylesheet" href="https://cdn1.simorgh.app/simorgh/v3/color/required-class.css" type="text/css">
