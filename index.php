@@ -24,6 +24,10 @@
     <link rel="stylesheet" href="https://simorghbu.github.io/dev/src/color/simorgh/palette/green.css" type="text/css">
     <link rel="stylesheet" href="https://simorghbu.github.io/dev/src/color/simorgh/palette/yellow.css" type="text/css">
     <link rel="stylesheet" href="https://simorghbu.github.io/dev/src/color/simorgh/palette/gray.css" type="text/css">
+    <link rel="stylesheet" href="https://simorghbu.github.io/dev/src/color/simorgh/palette/pink.css" type="text/css">
+    <link rel="stylesheet" href="https://simorghbu.github.io/dev/src/color/simorgh/palette/purple.css" type="text/css">
+    <link rel="stylesheet" href="https://simorghbu.github.io/dev/src/color/simorgh/palette/teal.css" type="text/css">
+    <link rel="stylesheet" href="https://simorghbu.github.io/dev/src/color/simorgh/palette/cyan.css" type="text/css">
 
 
     <!--<link rel="stylesheet" href="https://cdn1.simorgh.app/simorgh/v3/color/required-class.css" type="text/css">
@@ -43,6 +47,7 @@
 </head>
 <body>
     <button type="button" class="btn btn-lg btn-outline-primary">تست اصلی</button>
+    <button type="button" class="btn btn-lg btn-primary">تست اصلی</button>
     <button type="button" class="btn btn-lg btn-secondary">Secondary</button>
     <button type="button" class="btn btn-success">Success</button>
     <button type="button" class="btn btn-danger">Danger</button>

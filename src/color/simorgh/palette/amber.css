@@ -1,6 +1,15 @@
 :root{
-  --pa-bg-amber     : #ffc107;
+  --pa-bg-amber     : var(--pa-bg-amber-500);
   --pa-color-amber  : white;
+
+  --pa-bg-amber-h     : var(--pa-bg-amber-500);
+  --pa-color-amber-h  : white;
+
+  --pa-bg-amber-a     : var(--pa-bg-amber-600);
+  --pa-color-amber-a  : white;
+
+  --pa-bg-amber-f     : var(--pa-bg-amber-700);
+  --pa-color-amber-f  : white;
 
   --pa-bg-amber-50  : #fff8e1;
   --pa-bg-amber-100 : #ffecb3;

@@ -1,6 +1,15 @@
 :root{
-  --pa-bg-cyan     : #0BEAB1;
+  --pa-bg-cyan     : var(--pa-bg-cyan-500);
   --pa-color-cyan  : white;
+
+  --pa-bg-cyan-h     : var(--pa-bg-cyan-500);
+  --pa-color-cyan-h  : white;
+
+  --pa-bg-cyan-a     : var(--pa-bg-cyan-600);
+  --pa-color-cyan-a  : white;
+
+  --pa-bg-cyan-f     : var(--pa-bg-cyan-700);
+  --pa-color-cyan-f  : white;
 
   --pa-bg-cyan-50  : #EDFFFA;
   --pa-bg-cyan-100 : #C4FCEE;
