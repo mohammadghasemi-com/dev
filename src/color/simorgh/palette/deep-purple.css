@@ -2,13 +2,13 @@
   --pa-bg-deep-purple     : var(--pa-bg-deep-purple-500);
   --pa-color-deep-purple  : white;
 
-  --pa-bg-deep-purple-h     : var(--pa-bg-deep-purple-500);
+  --pa-bg-deep-purple-h     : var(--pa-bg-deep-purple-600);
   --pa-color-deep-purple-h  : white;
 
-  --pa-bg-deep-purple-a     : var(--pa-bg-deep-purple-600);
+  --pa-bg-deep-purple-a     : var(--pa-bg-deep-purple-700);
   --pa-color-deep-purple-a  : white;
 
-  --pa-bg-deep-purple-f     : var(--pa-bg-deep-purple-700);
+  --pa-bg-deep-purple-f     : var(--pa-bg-deep-purple-500);
   --pa-color-deep-purple-f  : white;
 
   --pa-bg-deep-purple-50  : #F8F3FC;
