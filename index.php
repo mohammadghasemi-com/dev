@@ -6,35 +6,35 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>bootstrap test</title>
     <!-- font -->
-<!--    <link rel="stylesheet" href="https://cdn1.simorgh.app/simorgh/v3/font/iransans-fa/font-face.css" type="text/css">-->
+    <!--    <link rel="stylesheet" href="https://cdn1.simorgh.app/simorgh/v3/font/iransans-fa/font-face.css" type="text/css">-->
     <link rel="stylesheet" href="https://simorghbu.github.io/dev/src/font/iransans-fa/font-face.css" type="text/css">
     <!-- reset -->
 <!--    <link rel="stylesheet" href="https://cdn1.simorgh.app/simorgh/v3/reset/ex1.css" type="text/css">-->
     <!-- config -->
 <!--    <link rel="stylesheet" href="https://cdn1.simorgh.app/simorgh/v3/config/ex1.css" type="text/css">-->
     <!-- color palette -->
-    <link rel="stylesheet" href="https://simorghbu.github.io/dev/src/color/google/admin-panel/indigo.css" type="text/css">
-    <link rel="stylesheet" href="https://simorghbu.github.io/dev/src/color/google/primary/indigo.css" type="text/css">
-    <link rel="stylesheet" href="https://simorghbu.github.io/dev/src/color/google/secondary/orange.css" type="text/css">
+    <link rel="stylesheet" href="https://simorghbu.github.io/dev/src/color/h-a/simorgh/admin-panel/indigo.css" type="text/css">
+    <link rel="stylesheet" href="https://simorghbu.github.io/dev/src/color/h-a/simorgh/primary/indigo.css" type="text/css">
+    <link rel="stylesheet" href="https://simorghbu.github.io/dev/src/color/h-a/simorgh/secondary/orange.css" type="text/css">
 
-    <link rel="stylesheet" href="https://simorghbu.github.io/dev/src/color/google/palette/blue.css" type="text/css">
-    <link rel="stylesheet" href="https://simorghbu.github.io/dev/src/color/google/palette/indigo.css" type="text/css">
-    <link rel="stylesheet" href="https://simorghbu.github.io/dev/src/color/google/palette/red.css" type="text/css">
-    <link rel="stylesheet" href="https://simorghbu.github.io/dev/src/color/google/palette/orange.css" type="text/css">
-    <link rel="stylesheet" href="https://simorghbu.github.io/dev/src/color/google/palette/green.css" type="text/css">
-    <link rel="stylesheet" href="https://simorghbu.github.io/dev/src/color/google/palette/yellow.css" type="text/css">
-    <link rel="stylesheet" href="https://simorghbu.github.io/dev/src/color/google/palette/gray.css" type="text/css">
-    <link rel="stylesheet" href="https://simorghbu.github.io/dev/src/color/google/palette/pink.css" type="text/css">
-    <link rel="stylesheet" href="https://simorghbu.github.io/dev/src/color/google/palette/purple.css" type="text/css">
-    <link rel="stylesheet" href="https://simorghbu.github.io/dev/src/color/google/palette/teal.css" type="text/css">
-    <link rel="stylesheet" href="https://simorghbu.github.io/dev/src/color/google/palette/cyan.css" type="text/css">
+    <link rel="stylesheet" href="https://simorghbu.github.io/dev/src/color/h-a/simorgh/palette/blue.css" type="text/css">
+    <link rel="stylesheet" href="https://simorghbu.github.io/dev/src/color/h-a/simorgh/palette/indigo.css" type="text/css">
+    <link rel="stylesheet" href="https://simorghbu.github.io/dev/src/color/h-a/simorgh/palette/red.css" type="text/css">
+    <link rel="stylesheet" href="https://simorghbu.github.io/dev/src/color/h-a/simorgh/palette/orange.css" type="text/css">
+    <link rel="stylesheet" href="https://simorghbu.github.io/dev/src/color/h-a/simorgh/palette/green.css" type="text/css">
+    <link rel="stylesheet" href="https://simorghbu.github.io/dev/src/color/h-a/simorgh/palette/yellow.css" type="text/css">
+    <link rel="stylesheet" href="https://simorghbu.github.io/dev/src/color/h-a/simorgh/palette/gray.css" type="text/css">
+    <link rel="stylesheet" href="https://simorghbu.github.io/dev/src/color/h-a/simorgh/palette/pink.css" type="text/css">
+    <link rel="stylesheet" href="https://simorghbu.github.io/dev/src/color/h-a/simorgh/palette/purple.css" type="text/css">
+    <link rel="stylesheet" href="https://simorghbu.github.io/dev/src/color/h-a/simorgh/palette/teal.css" type="text/css">
+    <link rel="stylesheet" href="https://simorghbu.github.io/dev/src/color/h-a/simorgh/palette/cyan.css" type="text/css">
 
 
     <!--<link rel="stylesheet" href="https://cdn1.simorgh.app/simorgh/v3/color/required-class.css" type="text/css">
     <link rel="stylesheet" href="https://cdn1.simorgh.app/simorgh/v3/color/primary-class.css" type="text/css">
     <link rel="stylesheet" href="https://cdn1.simorgh.app/simorgh/v3/color/secondary-class.css" type="text/css">-->
     <!-- bootstrap -->
-    <link rel="stylesheet" href="./cdn/bootstrap.rtl.css">
+    <link rel="stylesheet" href="https://simorghbu.github.io/dev/cdn/bootstrap.rtl.css">
 <!--    <link rel="stylesheet" href="./dist/bootstrap.css">-->
 <!--    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">-->
 

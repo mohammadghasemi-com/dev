@@ -10837,4 +10837,11 @@ textarea.form-control-lg {
         display: none !important;
     }
 }
+/*
+برای کتابخانه ویو استفاده میشه بیشتر
+https://stackoverflow.com/questions/41584526/reloading-page-is-flashing-content-on-slot-in-vue-component
+*/
+[v-cloak] {
+    display: none;
+}
 /*# sourceMappingURL=bootstrap.rtl.css.map */
