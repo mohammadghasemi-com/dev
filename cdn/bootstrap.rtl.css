@@ -7,7 +7,7 @@
  */
 :root {
     --bs-font-family: IRANSans,"IRANSans";
-    --bs-font-size-base: 20px;
+    --bs-font-size-base: 14px;
     --bs-text-color: var(--pa-bg-gray-700);
     --bs-transition:all 0.2s;
     --bs-link-color:var(--pa-bg-primary);
@@ -62,7 +62,10 @@
         scroll-behavior: smooth;
     }
 }
-
+html{
+    font-family: var(--bs-font-sans-serif);
+    font-size: var(--bs-font-size-base);
+}
 body {
     margin: 0;
     font-family: var(--bs-font-sans-serif);

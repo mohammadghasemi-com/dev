@@ -1,12 +1,35 @@
 :root{
-  --pa-primary-50  : #F2FDF2;
-  --pa-primary-100 : #D7F8D8;
-  --pa-primary-200 : #BCF4BF;
-  --pa-primary-300 : #6BE672;
-  --pa-primary-400 : #28DB32;
-  --pa-primary-500 : #00D40B;
-  --pa-primary-600 : #00BE0A;
-  --pa-primary-700 : #00A709;
-  --pa-primary-800 : #008607;
-  --pa-primary-900 : #007006;
+  --pa-bg-primary     : var(--pa-bg-primary-500);
+  --pa-color-primary  : white;
+
+  --pa-bg-primary-h     : var(--pa-bg-primary-600);
+  --pa-color-primary-h  : white;
+
+  --pa-bg-primary-a     : var(--pa-bg-primary-700);
+  --pa-color-primary-a  : white;
+
+  --pa-bg-primary-f     : var(--pa-bg-primary-500);
+  --pa-color-primary-f  : white;
+
+  --pa-bg-primary-50  : #f1f8e9;
+  --pa-bg-primary-100 : #dcedc8;
+  --pa-bg-primary-200 : #c5e1a5;
+  --pa-bg-primary-300 : #aed581;
+  --pa-bg-primary-400 : #9ccc65;
+  --pa-bg-primary-500 : #8bc34a;
+  --pa-bg-primary-600 : #7cb342;
+  --pa-bg-primary-700 : #689f38;
+  --pa-bg-primary-800 : #558b2f;
+  --pa-bg-primary-900 : #33691e;
+
+  --pa-color-primary-50  : #424242;
+  --pa-color-primary-100 : #424242;
+  --pa-color-primary-200 : #424242;
+  --pa-color-primary-300 : #424242;
+  --pa-color-primary-400 : white;
+  --pa-color-primary-500 : white;
+  --pa-color-primary-600 : white;
+  --pa-color-primary-700 : white;
+  --pa-color-primary-800 : white;
+  --pa-color-primary-900 : white;
 }

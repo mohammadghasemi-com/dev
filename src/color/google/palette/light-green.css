@@ -1,0 +1,35 @@
+:root{
+  --pa-bg-light-green     : var(--pa-bg-light-green-500);
+  --pa-color-light-green  : white;
+
+  --pa-bg-light-green-h     : var(--pa-bg-light-green-600);
+  --pa-color-light-green-h  : white;
+
+  --pa-bg-light-green-a     : var(--pa-bg-light-green-700);
+  --pa-color-light-green-a  : white;
+
+  --pa-bg-light-green-f     : var(--pa-bg-light-green-500);
+  --pa-color-light-green-f  : white;
+
+  --pa-bg-light-green-50  : #f1f8e9;
+  --pa-bg-light-green-100 : #dcedc8;
+  --pa-bg-light-green-200 : #c5e1a5;
+  --pa-bg-light-green-300 : #aed581;
+  --pa-bg-light-green-400 : #9ccc65;
+  --pa-bg-light-green-500 : #8bc34a;
+  --pa-bg-light-green-600 : #7cb342;
+  --pa-bg-light-green-700 : #689f38;
+  --pa-bg-light-green-800 : #558b2f;
+  --pa-bg-light-green-900 : #33691e;
+
+  --pa-color-light-green-50  : #424242;
+  --pa-color-light-green-100 : #424242;
+  --pa-color-light-green-200 : #424242;
+  --pa-color-light-green-300 : #424242;
+  --pa-color-light-green-400 : white;
+  --pa-color-light-green-500 : white;
+  --pa-color-light-green-600 : white;
+  --pa-color-light-green-700 : white;
+  --pa-color-light-green-800 : white;
+  --pa-color-light-green-900 : white;
+}

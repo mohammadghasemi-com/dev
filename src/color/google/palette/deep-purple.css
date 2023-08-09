@@ -1,0 +1,35 @@
+:root{
+  --pa-bg-deep-purple     : var(--pa-bg-deep-purple-500);
+  --pa-color-deep-purple  : white;
+
+  --pa-bg-deep-purple-h     : var(--pa-bg-deep-purple-600);
+  --pa-color-deep-purple-h  : white;
+
+  --pa-bg-deep-purple-a     : var(--pa-bg-deep-purple-700);
+  --pa-color-deep-purple-a  : white;
+
+  --pa-bg-deep-purple-f     : var(--pa-bg-deep-purple-500);
+  --pa-color-deep-purple-f  : white;
+
+  --pa-bg-deep-purple-50  : #ede7f6;
+  --pa-bg-deep-purple-100 : #d1c4e9;
+  --pa-bg-deep-purple-200 : #b39ddb;
+  --pa-bg-deep-purple-300 : #9575cd;
+  --pa-bg-deep-purple-400 : #7e57c2;
+  --pa-bg-deep-purple-500 : #673ab7;
+  --pa-bg-deep-purple-600 : #5e35b1;
+  --pa-bg-deep-purple-700 : #512da8;
+  --pa-bg-deep-purple-800 : #4527a0;
+  --pa-bg-deep-purple-900 : #311b92;
+
+  --pa-color-deep-purple-50  : #424242;
+  --pa-color-deep-purple-100 : #424242;
+  --pa-color-deep-purple-200 : #424242;
+  --pa-color-deep-purple-300 : white;
+  --pa-color-deep-purple-400 : white;
+  --pa-color-deep-purple-500 : white;
+  --pa-color-deep-purple-600 : white;
+  --pa-color-deep-purple-700 : white;
+  --pa-color-deep-purple-800 : white;
+  --pa-color-deep-purple-900 : white;
+}

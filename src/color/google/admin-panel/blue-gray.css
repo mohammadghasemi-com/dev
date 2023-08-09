@@ -1,0 +1,35 @@
+:root{
+  --pa-bg-admin-panel     : var(--pa-bg-admin-panel-500);
+  --pa-color-admin-panel  : white;
+
+  --pa-bg-admin-panel-h     : var(--pa-bg-admin-panel-600);
+  --pa-color-admin-panel-h  : white;
+
+  --pa-bg-admin-panel-a     : var(--pa-bg-admin-panel-700);
+  --pa-color-admin-panel-a  : white;
+
+  --pa-bg-admin-panel-f     : var(--pa-bg-admin-panel-500);
+  --pa-color-admin-panel-f  : white;
+
+  --pa-bg-admin-panel-50  : #eceff1;
+  --pa-bg-admin-panel-100 : #cfd8dc;
+  --pa-bg-admin-panel-200 : #b0bec5;
+  --pa-bg-admin-panel-300 : #90a4ae;
+  --pa-bg-admin-panel-400 : #78909c;
+  --pa-bg-admin-panel-500 : #607d8b;
+  --pa-bg-admin-panel-600 : #546e7a;
+  --pa-bg-admin-panel-700 : #455a64;
+  --pa-bg-admin-panel-800 : #37474f;
+  --pa-bg-admin-panel-900 : #263238;
+
+  --pa-color-admin-panel-50  : #424242;
+  --pa-color-admin-panel-100 : #424242;
+  --pa-color-admin-panel-200 : #424242;
+  --pa-color-admin-panel-300 : #424242;
+  --pa-color-admin-panel-400 : white;
+  --pa-color-admin-panel-500 : white;
+  --pa-color-admin-panel-600 : white;
+  --pa-color-admin-panel-700 : white;
+  --pa-color-admin-panel-800 : white;
+  --pa-color-admin-panel-900 : white;
+}
