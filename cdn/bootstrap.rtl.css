@@ -19,6 +19,7 @@
     --bs-link-bg-a:var(--pa-bg-primary-a);
     --bs-link-bg-f:var(--pa-bg-primary-f);
 
+    --bs-form-radius:0.25 rem;
     --bs-form-border:1px solid var(--pa-bg-gray-700);
     --bs-form-border-color:var(--pa-bg-gray-700);
     --bs-form-box-shadow:0 0 0.35rem var(--pa-bg-gray-200);
