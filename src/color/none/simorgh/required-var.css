@@ -1,0 +1,87 @@
+:root{
+    --pa-white:#ffffff;
+    --pa-black:#000000;
+    --pa-gray-50 : #fafafa;
+    --pa-gray-100: #f5f5f5;
+    --pa-gray-200: #eeeeee;
+    --pa-gray-300: #e0e0e0;
+    --pa-gray-400: #bdbdbd;
+    --pa-gray-500: #9e9e9e;
+    --pa-gray-600: #757575;
+    --pa-gray-700: #616161;
+    --pa-gray-800: #424242;
+    --pa-gray-900: #212121;
+
+    /* red */
+    --pa-red-50  :#FFEDEE;
+    --pa-red-100 :#FFDBDE;
+    --pa-red-200 :#FFB6BC;
+    --pa-red-300 :#FF5B69;
+    --pa-red-400 :#FF3748;
+    --pa-red-500 :#FF0016;
+    --pa-red-600 :#ED0014;
+    --pa-red-700 :#D30012;
+    --pa-red-800 :#B90010;
+    --pa-red-900 :#95000D;
+
+    /* green */
+    --pa-green-50  : #F2FAF3;
+    --pa-green-100 : #E5F5E7;
+    --pa-green-200 : #BDE7C4;
+    --pa-green-300 : #89D394;
+    --pa-green-400 : #20AD35;
+    --pa-green-500 : #06A31D;
+    --pa-green-600 : #05921A;
+    --pa-green-700 : #058117;
+    --pa-green-800 : #047014;
+    --pa-green-900 : #03560F;
+
+    /* blue */
+    --pa-blue-50  : #F2F9FF;
+    --pa-blue-100 : #D7EDFF;
+    --pa-blue-200 : #A1D5FF;
+    --pa-blue-300 : #6BBEFF;
+    --pa-blue-400 : #43ACFF;
+    --pa-blue-500 : #008EFF;
+    --pa-blue-600 : #007FE4;
+    --pa-blue-700 : #0070C9;
+    --pa-blue-800 : #0061AE;
+    --pa-blue-900 : #004379;
+
+    /* indigo */
+    --pa-indigo-50:  #ECEEFE;
+    --pa-indigo-100: #C5CCFC;
+    --pa-indigo-200: #9EAAFA;
+    --pa-indigo-300: #687AF2;
+    --pa-indigo-400: #354EEE;
+    --pa-indigo-500: #0B29EA;
+    --pa-indigo-600: #0922C3;
+    --pa-indigo-700: #081DA7;
+    --pa-indigo-800: #061786;
+    --pa-indigo-900: #051264;
+
+    /* orange */
+    --pa-orange-50  : #FFF6ED;
+    --pa-orange-100 : #FFEDDB;
+    --pa-orange-200 : #FFDCB6;
+    --pa-orange-300 : #FFB96D;
+    --pa-orange-400 : #FF9624;
+    --pa-orange-500 : #FF8400;
+    --pa-orange-600 : #F27D00;
+    --pa-orange-700 : #D76F00;
+    --pa-orange-800 : #AE5A00;
+    --pa-orange-900 : #864500;
+
+
+    /* yellow */
+    --pa-yellow-50  : #FFFFED;
+    --pa-yellow-100 : #FFFFC8;
+    --pa-yellow-200 : #FFFFA4;
+    --pa-yellow-300 : #FFFF80;
+    --pa-yellow-400 : #FFFF49;
+    --pa-yellow-500 : #FFFF00;
+    --pa-yellow-600 : #EDED00;
+    --pa-yellow-700 : #D3D300;
+    --pa-yellow-800 : #C1C100;
+    --pa-yellow-900 : #848400;
+}

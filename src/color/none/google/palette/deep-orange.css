@@ -1,0 +1,35 @@
+:root{
+  --pa-bg-deep-orange     : var(--pa-bg-deep-orange-500);
+  --pa-color-deep-orange  : white;
+
+  --pa-bg-deep-orange-h     : var(--pa-bg-deep-orange-600);
+  --pa-color-deep-orange-h  : white;
+
+  --pa-bg-deep-orange-a     : var(--pa-bg-deep-orange-700);
+  --pa-color-deep-orange-a  : white;
+
+  --pa-bg-deep-orange-f     : var(--pa-bg-deep-orange-500);
+  --pa-color-deep-orange-f  : white;
+
+  --pa-bg-deep-orange-50  : #fbe9e7;
+  --pa-bg-deep-orange-100 : #ffccbc;
+  --pa-bg-deep-orange-200 : #ffab91;
+  --pa-bg-deep-orange-300 : #ff8a65;
+  --pa-bg-deep-orange-400 : #ff7043;
+  --pa-bg-deep-orange-500 : #ff5722;
+  --pa-bg-deep-orange-600 : #f4511e;
+  --pa-bg-deep-orange-700 : #e64a19;
+  --pa-bg-deep-orange-800 : #d84315;
+  --pa-bg-deep-orange-900 : #bf360c;
+
+  --pa-color-deep-orange-50  : #424242;
+  --pa-color-deep-orange-100 : #424242;
+  --pa-color-deep-orange-200 : #424242;
+  --pa-color-deep-orange-300 : #424242;
+  --pa-color-deep-orange-400 : #424242;
+  --pa-color-deep-orange-500 : white;
+  --pa-color-deep-orange-600 : white;
+  --pa-color-deep-orange-700 : white;
+  --pa-color-deep-orange-800 : white;
+  --pa-color-deep-orange-900 : white;
+}
