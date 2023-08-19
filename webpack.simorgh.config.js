@@ -32,7 +32,8 @@ module.exports = {
         // jquery: 'jQuery',
     },
     // stats: 'minimal',
-    mode: "development",
+    mode: "production",
+    // mode: "development",
     performance: { hints: false },
     optimization: {
         minimize: true,
@@ -41,6 +42,7 @@ module.exports = {
     entry: {
         // portal:'./resources/template/portal/__style.js',
         bootstrap:'./src/js/main.js',
+        attach:'./src/js/attach.js',
     },
     output: {
         filename: "[name].js",

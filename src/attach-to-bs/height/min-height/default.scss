@@ -1,0 +1,12 @@
+#{$parent_prefixClass}-min-h-a #{$selectAll}{
+  min-height: auto #{$parent_importantStatus};
+}
+#{$parent_prefixClass}-min-h-u #{$selectAll}{
+  min-height: unset #{$parent_importantStatus};
+}
+#{$parent_prefixClass}-min-h-i #{$selectAll}{
+  min-height: inherit #{$parent_importantStatus};
+}
+#{$parent_prefixClass}-min-h-ii #{$selectAll}{
+  min-height: initial #{$parent_importantStatus};
+}

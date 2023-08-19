@@ -1,0 +1,12 @@
+#{$parent_prefixClass}-h-a #{$selectAll}{
+  height: auto #{$parent_importantStatus};
+}
+#{$parent_prefixClass}-h-u #{$selectAll}{
+  height: unset #{$parent_importantStatus};
+}
+#{$parent_prefixClass}-h-i #{$selectAll}{
+  height: inherit #{$parent_importantStatus};
+}
+#{$parent_prefixClass}-h-ii #{$selectAll}{
+  height: initial #{$parent_importantStatus};
+}

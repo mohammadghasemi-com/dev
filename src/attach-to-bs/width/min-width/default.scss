@@ -1,0 +1,12 @@
+#{$parent_prefixClass}-min-w-a #{$selectAll}{
+  min-width: auto #{$parent_importantStatus};
+}
+#{$parent_prefixClass}-min-w-u #{$selectAll}{
+  min-width: unset #{$parent_importantStatus};
+}
+#{$parent_prefixClass}-min-w-i #{$selectAll}{
+  min-width: inherit #{$parent_importantStatus};
+}
+#{$parent_prefixClass}-min-w-ii #{$selectAll}{
+  min-width: initial #{$parent_importantStatus};
+}

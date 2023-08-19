@@ -1,0 +1,12 @@
+#{$parent_prefixClass}-max-w-a #{$selectAll}{
+  max-width: auto #{$parent_importantStatus};
+}
+#{$parent_prefixClass}-max-w-u #{$selectAll}{
+  max-width: unset #{$parent_importantStatus};
+}
+#{$parent_prefixClass}-max-w-i #{$selectAll}{
+  max-width: inherit #{$parent_importantStatus};
+}
+#{$parent_prefixClass}-max-w-ii #{$selectAll}{
+  max-width: initial #{$parent_importantStatus};
+}

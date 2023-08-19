@@ -1,0 +1,18 @@
+$parent_prefixClass:'.mg';
+$selectAll:'';
+$parent_importantStatus:" !important";
+
+@import "./default";
+
+@import "./rem/0-1500";
+@import "./rem/other";
+
+/*
+@import "./%/100";
+
+@import "./px/0-1500";
+@import "./px/other";
+
+
+@import "./em/0-1500";
+@import "./em/other";*/

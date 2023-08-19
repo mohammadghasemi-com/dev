@@ -1,0 +1,12 @@
+#{$parent_prefixClass}-w-a #{$selectAll}{
+  width: auto #{$parent_importantStatus};
+}
+#{$parent_prefixClass}-w-u #{$selectAll}{
+  width: unset #{$parent_importantStatus};
+}
+#{$parent_prefixClass}-w-i #{$selectAll}{
+  width: inherit #{$parent_importantStatus};
+}
+#{$parent_prefixClass}-w-ii #{$selectAll}{
+  width: initial #{$parent_importantStatus};
+}
