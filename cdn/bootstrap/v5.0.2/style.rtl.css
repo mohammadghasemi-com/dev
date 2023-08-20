@@ -9,7 +9,7 @@
     --bs-font-family: IRANSans,"IRANSans";
     --bs-font-size-base: 14px;
     --bs-text-color: var(--pa-bg-gray-700);
-    --bs-tooltip-bg:var(--pa-primary-500);
+    --bs-tooltip-bg:var(--pa-bg-primary);
     --bs-transition:all 0.2s;
     --bs-link-color:var(--pa-bg-primary);
     --bs-link-color-h:var(--pa-bg-primary-h);
