@@ -14,5 +14,52 @@
 @import "./margin/style"; // 250kb
 @import "./padding/style"; // 250kb
 
-@import "./_bg";
-@import "./_text";
+
+/* gray */
+@import "../color/class/gray/_bg";
+@import "../color/class/gray/_text";
+@import "../color/class/gray/_fill";
+@import "../color/class/gray/_border";
+
+/* primary */
+@import "../color/class/primary/_bg";
+@import "../color/class/primary/_text";
+@import "../color/class/primary/_fill";
+@import "../color/class/primary/_border";
+
+/* secondary */
+@import "../color/class/secondary/_bg";
+@import "../color/class/secondary/_text";
+@import "../color/class/secondary/_fill";
+@import "../color/class/secondary/_border";
+
+/* red */
+@import "../color/class/red/_bg";
+@import "../color/class/red/_text";
+@import "../color/class/red/_fill";
+@import "../color/class/red/_border";
+
+/* green */
+@import "../color/class/green/_bg";
+@import "../color/class/green/_text";
+@import "../color/class/green/_fill";
+@import "../color/class/green/_border";
+
+/* orange */
+@import "../color/class/orange/_bg";
+@import "../color/class/orange/_text";
+@import "../color/class/orange/_fill";
+@import "../color/class/orange/_border";
+
+/* yellow */
+@import "../color/class/yellow/_bg";
+@import "../color/class/yellow/_text";
+@import "../color/class/yellow/_fill";
+@import "../color/class/yellow/_border";
+
+/* blue */
+@import "../color/class/blue/_bg";
+@import "../color/class/blue/_text";
+@import "../color/class/blue/_fill";
+@import "../color/class/blue/_border";
+
