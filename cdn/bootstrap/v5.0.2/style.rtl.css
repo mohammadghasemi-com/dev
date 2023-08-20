@@ -9,6 +9,7 @@
     --bs-font-family: IRANSans,"IRANSans";
     --bs-font-size-base: 14px;
     --bs-text-color: var(--pa-bg-gray-700);
+    --bs-tooltip-bg:var(--pa-primary-500);
     --bs-transition:all 0.2s;
     --bs-link-color:var(--pa-bg-primary);
     --bs-link-color-h:var(--pa-bg-primary-h);
@@ -5575,7 +5576,7 @@ textarea.form-control-lg {
 .bs-tooltip-top .tooltip-arrow::before, .bs-tooltip-auto[data-popper-placement^=top] .tooltip-arrow::before {
     top: -1px;
     border-width: 0.4rem 0.4rem 0;
-    border-top-color: var(--bs-text-color);
+    border-top-color: var(--bs-tooltip-bg);
 }
 
 .bs-tooltip-end, .bs-tooltip-auto[data-popper-placement^=right] {
@@ -5589,7 +5590,7 @@ textarea.form-control-lg {
 .bs-tooltip-end .tooltip-arrow::before, .bs-tooltip-auto[data-popper-placement^=right] .tooltip-arrow::before {
     left: -1px;
     border-width: 0.4rem 0 0.4rem 0.4rem;
-    border-left-color: var(--bs-text-color);
+    border-left-color: var(--bs-tooltip-bg);
 }
 
 .bs-tooltip-bottom, .bs-tooltip-auto[data-popper-placement^=bottom] {
@@ -5601,7 +5602,7 @@ textarea.form-control-lg {
 .bs-tooltip-bottom .tooltip-arrow::before, .bs-tooltip-auto[data-popper-placement^=bottom] .tooltip-arrow::before {
     bottom: -1px;
     border-width: 0 0.4rem 0.4rem;
-    border-bottom-color: var(--bs-text-color);
+    border-bottom-color: var(--bs-tooltip-bg);
 }
 
 .bs-tooltip-start, .bs-tooltip-auto[data-popper-placement^=left] {
@@ -5615,7 +5616,7 @@ textarea.form-control-lg {
 .bs-tooltip-start .tooltip-arrow::before, .bs-tooltip-auto[data-popper-placement^=left] .tooltip-arrow::before {
     right: -1px;
     border-width: 0.4rem 0.4rem 0.4rem 0;
-    border-right-color: var(--bs-text-color);
+    border-right-color: var(--bs-tooltip-bg);
 }
 
 .tooltip-inner {
@@ -5623,7 +5624,7 @@ textarea.form-control-lg {
     padding: 0.25rem 0.5rem;
     color: #fff;
     text-align: center;
-    background-color: var(--bs-text-color);
+    background-color: var(--bs-tooltip-bg);
     border-radius: 0.25rem;
 }
 
