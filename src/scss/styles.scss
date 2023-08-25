@@ -67,3 +67,22 @@ $cyan:    #0dcaf0;*/
 
 // Utilities
 @import "node_modules/bootstrap/scss/utilities/api";
+
+
+@media (min-width: 576px) {
+  .col-xs-1 {
+    flex-basis: calc(100% / 12);
+  }
+  .col-xs-2 {
+    flex-basis: calc(100% / 6);
+  }
+  .col-xs-3 {
+    flex-basis: calc(100% / 4);
+  }
+  .col-xs-6 {
+    flex-basis: calc(100% / 2);
+  }
+  .col-xs-6 {
+    flex-basis: calc(100% / 2);
+  }
+}
