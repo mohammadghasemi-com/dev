@@ -41,7 +41,7 @@ module.exports = {
     },
     entry: {
         // portal:'./resources/template/portal/__style.js',
-        bootstrap:'./src/js/main.js',
+        bootstrap:'./src/js/bootstrap.js',
         attach:'./src/js/attach.js',
     },
     output: {
