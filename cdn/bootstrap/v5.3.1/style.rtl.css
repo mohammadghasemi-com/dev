@@ -3074,16 +3074,17 @@ textarea.form-control-lg {
     --bs-btn-bg: var(--pa-bg-primary);
     --bs-btn-border-color: var(--pa-bg-primary);
     --bs-btn-hover-color: #fff;
-    --bs-btn-hover-bg: #0b5ed7;
+    --bs-btn-hover-bg: var(--pa-bg-primary-h);
     --bs-btn-hover-border-color: var(--pa-bg-primary-h);
-    --bs-btn-focus-shadow-rgb: 49, 132, 253;
+    --bs-btn-focus-shadow-rgb: var(--pa-bg-rgb-primary-f);
     --bs-btn-active-color: #fff;
-    --bs-btn-active-bg: var(--pa-bg-primary-h);
-    --bs-btn-active-border-color: #0a53be;
+    --bs-btn-active-bg: var(--pa-bg-primary-a);
+    --bs-btn-active-border-color: var(--pa-bg-rgb-primary-a);
     --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
     --bs-btn-disabled-color: #fff;
     --bs-btn-disabled-bg: var(--pa-bg-primary);
     --bs-btn-disabled-border-color: var(--pa-bg-primary);
+    --bs-btn-active-border-color
 }
 
 .btn-secondary {
@@ -3353,7 +3354,7 @@ textarea.form-control-lg {
     --bs-btn-disabled-color: var(--pa-bg-gray);
     --bs-btn-disabled-border-color: transparent;
     --bs-btn-box-shadow: 0 0 0 #000;
-    --bs-btn-focus-shadow-rgb: 49, 132, 253;
+    --bs-btn-focus-shadow-rgb: var(--pa-bg-rgb-primary-f);
     text-decoration: underline;
 }
 .btn-link:focus-visible {
