@@ -22,6 +22,17 @@
   --pa-bg-indigo-800 : #283593;
   --pa-bg-indigo-900 : #1a237e;
 
+  --pa-bg-rgb-indigo-50:  232, 234, 246;
+  --pa-bg-rgb-indigo-100: 197, 202, 233;
+  --pa-bg-rgb-indigo-200: 159, 168, 218;
+  --pa-bg-rgb-indigo-300: 121, 134, 203;
+  --pa-bg-rgb-indigo-400: 92, 107, 192;
+  --pa-bg-rgb-indigo-500: 63, 81, 181;
+  --pa-bg-rgb-indigo-600: 57, 73, 171;
+  --pa-bg-rgb-indigo-700: 48, 63, 159;
+  --pa-bg-rgb-indigo-800: 40, 53, 147;
+  --pa-bg-rgb-indigo-900: 26, 35, 126;
+
   --pa-color-indigo-50  : #424242;
   --pa-color-indigo-100 : #424242;
   --pa-color-indigo-200 : #424242;

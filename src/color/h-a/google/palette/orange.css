@@ -22,6 +22,17 @@
   --pa-bg-orange-800 : #ef6c00;
   --pa-bg-orange-900 : #e65100;
 
+  --pa-bg-rgb-orange-50:  255, 243, 224;
+  --pa-bg-rgb-orange-100: 255, 224, 178;
+  --pa-bg-rgb-orange-200: 255, 204, 128;
+  --pa-bg-rgb-orange-300: 255, 183, 77;
+  --pa-bg-rgb-orange-400: 255, 167, 38;
+  --pa-bg-rgb-orange-500: 255, 152, 0;
+  --pa-bg-rgb-orange-600: 251, 140, 0;
+  --pa-bg-rgb-orange-700: 245, 124, 0;
+  --pa-bg-rgb-orange-800: 239, 108, 0;
+  --pa-bg-rgb-orange-900: 230, 81, 0;
+
   --pa-color-orange-50  : #424242;
   --pa-color-orange-100 : #424242;
   --pa-color-orange-200 : #424242;
