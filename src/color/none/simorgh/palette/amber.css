@@ -1,15 +1,23 @@
 :root{
   --pa-bg-amber     : var(--pa-bg-amber-500);
+  --pa-bg-rgb-amber     : var(--pa-bg-rgb-amber-500);
   --pa-color-amber  : white;
+  --pa-color-rgb-amber  : 255, 255, 255;
 
   --pa-bg-amber-h     : var(--pa-bg-amber-500);
+  --pa-bg-rgb-amber-h     : var(--pa-bg-rgb-amber-500);
   --pa-color-amber-h  : white;
+  --pa-color-rgb-amber-h  : 255, 255, 255;
 
   --pa-bg-amber-a     : var(--pa-bg-amber-500);
+  --pa-bg-rgb-amber-a     : var(--pa-bg-rgb-amber-500);
   --pa-color-amber-a  : white;
+  --pa-color-rgb-amber-a  : 255, 255, 255;
 
   --pa-bg-amber-f     : var(--pa-bg-amber-500);
+  --pa-bg-rgb-amber-f     : var(--pa-bg-rgb-amber-500);
   --pa-color-amber-f  : white;
+  --pa-color-rgb-amber-f  : 255, 255, 255;
 
   --pa-bg-amber-50  : #fff8e1;
   --pa-bg-amber-100 : #ffecb3;

@@ -1,15 +1,23 @@
 :root{
   --pa-bg-blue     : var(--pa-bg-blue-500);
+  --pa-bg-rgb-blue     : var(--pa-bg-rgb-blue-500);
   --pa-color-blue  : white;
+  --pa-color-rgb-blue  : 255, 255, 255;
 
   --pa-bg-blue-h     : var(--pa-bg-blue-500);
+  --pa-bg-rgb-blue-h     : var(--pa-bg-rgb-blue-500);
   --pa-color-blue-h  : white;
+  --pa-color-rgb-blue-h  : 255, 255, 255;
 
   --pa-bg-blue-a     : var(--pa-bg-blue-500);
+  --pa-bg-rgb-blue-a     : var(--pa-bg-rgb-blue-500);
   --pa-color-blue-a  : white;
+  --pa-color-rgb-blue-a  : 255, 255, 255;
 
   --pa-bg-blue-f     : var(--pa-bg-blue-500);
+  --pa-bg-rgb-blue-f     : var(--pa-bg-rgb-blue-500);
   --pa-color-blue-f  : white;
+  --pa-color-rgb-blue-f  : 255, 255, 255;
 
   --pa-bg-blue-50  : #F2F9FF;
   --pa-bg-blue-100 : #D7EDFF;

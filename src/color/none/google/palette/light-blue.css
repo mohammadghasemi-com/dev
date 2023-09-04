@@ -1,15 +1,23 @@
 :root{
   --pa-bg-light-blue     : var(--pa-bg-light-blue-500);
+  --pa-bg-rgb-light-blue     : var(--pa-bg-rgb-light-blue-500);
   --pa-color-light-blue  : white;
+  --pa-color-rgb-light-blue  : 255, 255, 255;
 
-  --pa-bg-light-blue-h     : var(--pa-bg-light-blue-600);
+  --pa-bg-light-blue-h     : var(--pa-bg-light-blue-500);
+  --pa-bg-rgb-light-blue-h     : var(--pa-bg-rgb-light-blue-500);
   --pa-color-light-blue-h  : white;
+  --pa-color-rgb-light-blue-h  : 255, 255, 255;
 
-  --pa-bg-light-blue-a     : var(--pa-bg-light-blue-700);
+  --pa-bg-light-blue-a     : var(--pa-bg-light-blue-500);
+  --pa-bg-rgb-light-blue-a     : var(--pa-bg-rgb-light-blue-500);
   --pa-color-light-blue-a  : white;
+  --pa-color-rgb-light-blue-a  : 255, 255, 255;
 
   --pa-bg-light-blue-f     : var(--pa-bg-light-blue-500);
+  --pa-bg-rgb-light-blue-f     : var(--pa-bg-rgb-light-blue-500);
   --pa-color-light-blue-f  : white;
+  --pa-color-rgb-light-blue-f  : 255, 255, 255;
 
   --pa-bg-light-blue-50  : #e1f5fe;
   --pa-bg-light-blue-100 : #b3e5fc;
@@ -21,6 +29,17 @@
   --pa-bg-light-blue-700 : #0288d1;
   --pa-bg-light-blue-800 : #0277bd;
   --pa-bg-light-blue-900 : #01579b;
+
+  --pa-bg-rgb-light-blue-50:  225, 245, 254;
+  --pa-bg-rgb-light-blue-100: 179, 229, 252;
+  --pa-bg-rgb-light-blue-200: 129, 212, 250;
+  --pa-bg-rgb-light-blue-300: 79, 195, 247;
+  --pa-bg-rgb-light-blue-400: 41, 182, 246;
+  --pa-bg-rgb-light-blue-500: 3, 169, 244;
+  --pa-bg-rgb-light-blue-600: 3, 155, 229;
+  --pa-bg-rgb-light-blue-700: 2, 136, 209;
+  --pa-bg-rgb-light-blue-800: 2, 119, 189;
+  --pa-bg-rgb-light-blue-900: 1, 87, 155;
 
   --pa-color-light-blue-50  : #424242;
   --pa-color-light-blue-100 : #424242;

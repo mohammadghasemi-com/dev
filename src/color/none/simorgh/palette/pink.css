@@ -1,15 +1,23 @@
 :root{
   --pa-bg-pink     : var(--pa-bg-pink-500);
+  --pa-bg-rgb-pink     : var(--pa-bg-rgb-pink-500);
   --pa-color-pink  : white;
+  --pa-color-rgb-pink  : 255, 255, 255;
 
   --pa-bg-pink-h     : var(--pa-bg-pink-500);
+  --pa-bg-rgb-pink-h     : var(--pa-bg-rgb-pink-500);
   --pa-color-pink-h  : white;
+  --pa-color-rgb-pink-h  : 255, 255, 255;
 
   --pa-bg-pink-a     : var(--pa-bg-pink-500);
+  --pa-bg-rgb-pink-a     : var(--pa-bg-rgb-pink-500);
   --pa-color-pink-a  : white;
+  --pa-color-rgb-pink-a  : 255, 255, 255;
 
   --pa-bg-pink-f     : var(--pa-bg-pink-500);
+  --pa-bg-rgb-pink-f     : var(--pa-bg-rgb-pink-500);
   --pa-color-pink-f  : white;
+  --pa-color-rgb-pink-f  : 255, 255, 255;
 
   --pa-bg-pink-50  : #FFF2F9;
   --pa-bg-pink-100 : #FFD7EC;

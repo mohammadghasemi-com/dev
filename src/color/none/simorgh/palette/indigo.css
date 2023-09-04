@@ -1,15 +1,23 @@
 :root{
   --pa-bg-indigo     : var(--pa-bg-indigo-500);
+  --pa-bg-rgb-indigo     : var(--pa-bg-rgb-indigo-500);
   --pa-color-indigo  : white;
+  --pa-color-rgb-indigo  : 255, 255, 255;
 
   --pa-bg-indigo-h     : var(--pa-bg-indigo-500);
+  --pa-bg-rgb-indigo-h     : var(--pa-bg-rgb-indigo-500);
   --pa-color-indigo-h  : white;
+  --pa-color-rgb-indigo-h  : 255, 255, 255;
 
   --pa-bg-indigo-a     : var(--pa-bg-indigo-500);
+  --pa-bg-rgb-indigo-a     : var(--pa-bg-rgb-indigo-500);
   --pa-color-indigo-a  : white;
+  --pa-color-rgb-indigo-a  : 255, 255, 255;
 
   --pa-bg-indigo-f     : var(--pa-bg-indigo-500);
+  --pa-bg-rgb-indigo-f     : var(--pa-bg-rgb-indigo-500);
   --pa-color-indigo-f  : white;
+  --pa-color-rgb-indigo-f  : 255, 255, 255;
 
   --pa-bg-indigo-50  : #ECEEFE;
   --pa-bg-indigo-100 : #C5CCFC;

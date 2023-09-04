@@ -1,15 +1,23 @@
 :root{
   --pa-bg-brown     : var(--pa-bg-brown-500);
+  --pa-bg-rgb-brown     : var(--pa-bg-rgb-brown-500);
   --pa-color-brown  : white;
+  --pa-color-rgb-brown  : 255, 255, 255;
 
-  --pa-bg-brown-h     : var(--pa-bg-brown-600);
+  --pa-bg-brown-h     : var(--pa-bg-brown-500);
+  --pa-bg-rgb-brown-h     : var(--pa-bg-rgb-brown-500);
   --pa-color-brown-h  : white;
+  --pa-color-rgb-brown-h  : 255, 255, 255;
 
-  --pa-bg-brown-a     : var(--pa-bg-brown-700);
+  --pa-bg-brown-a     : var(--pa-bg-brown-500);
+  --pa-bg-rgb-brown-a     : var(--pa-bg-rgb-brown-500);
   --pa-color-brown-a  : white;
+  --pa-color-rgb-brown-a  : 255, 255, 255;
 
   --pa-bg-brown-f     : var(--pa-bg-brown-500);
+  --pa-bg-rgb-brown-f     : var(--pa-bg-rgb-brown-500);
   --pa-color-brown-f  : white;
+  --pa-color-rgb-brown-f  : 255, 255, 255;
 
   --pa-bg-brown-50  : #efebe9;
   --pa-bg-brown-100 : #d7ccc8;
@@ -21,6 +29,17 @@
   --pa-bg-brown-700 : #5d4037;
   --pa-bg-brown-800 : #4e342e;
   --pa-bg-brown-900 : #3e2723;
+
+  --pa-bg-rgb-brown-50:  239, 235, 233;
+  --pa-bg-rgb-brown-100: 215, 204, 200;
+  --pa-bg-rgb-brown-200: 188, 170, 164;
+  --pa-bg-rgb-brown-300: 161, 136, 127;
+  --pa-bg-rgb-brown-400: 141, 110, 99;
+  --pa-bg-rgb-brown-500: 121, 85, 72;
+  --pa-bg-rgb-brown-600: 109, 76, 65;
+  --pa-bg-rgb-brown-700: 93, 64, 55;
+  --pa-bg-rgb-brown-800: 78, 52, 46;
+  --pa-bg-rgb-brown-900: 62, 39, 35;
 
   --pa-color-brown-50  : #424242;
   --pa-color-brown-100 : #424242;

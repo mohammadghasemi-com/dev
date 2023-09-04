@@ -1,15 +1,23 @@
 :root{
   --pa-bg-deep-orange     : var(--pa-bg-deep-orange-500);
+  --pa-bg-rgb-deep-orange     : var(--pa-bg-rgb-deep-orange-500);
   --pa-color-deep-orange  : white;
+  --pa-color-rgb-deep-orange  : 255, 255, 255;
 
   --pa-bg-deep-orange-h     : var(--pa-bg-deep-orange-500);
+  --pa-bg-rgb-deep-orange-h     : var(--pa-bg-rgb-deep-orange-500);
   --pa-color-deep-orange-h  : white;
+  --pa-color-rgb-deep-orange-h  : 255, 255, 255;
 
   --pa-bg-deep-orange-a     : var(--pa-bg-deep-orange-500);
+  --pa-bg-rgb-deep-orange-a     : var(--pa-bg-rgb-deep-orange-500);
   --pa-color-deep-orange-a  : white;
+  --pa-color-rgb-deep-orange-a  : 255, 255, 255;
 
   --pa-bg-deep-orange-f     : var(--pa-bg-deep-orange-500);
+  --pa-bg-rgb-deep-orange-f     : var(--pa-bg-rgb-deep-orange-500);
   --pa-color-deep-orange-f  : white;
+  --pa-color-rgb-deep-orange-f  : 255, 255, 255;
 
   --pa-bg-deep-orange-50  : #FFF5F2;
   --pa-bg-deep-orange-100 : #FFE2D7;

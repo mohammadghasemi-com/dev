@@ -1,15 +1,23 @@
 :root{
   --pa-bg-deep-purple     : var(--pa-bg-deep-purple-500);
+  --pa-bg-rgb-deep-purple     : var(--pa-bg-rgb-deep-purple-500);
   --pa-color-deep-purple  : white;
+  --pa-color-rgb-deep-purple  : 255, 255, 255;
 
-  --pa-bg-deep-purple-h     : var(--pa-bg-deep-purple-600);
+  --pa-bg-deep-purple-h     : var(--pa-bg-deep-purple-500);
+  --pa-bg-rgb-deep-purple-h     : var(--pa-bg-rgb-deep-purple-500);
   --pa-color-deep-purple-h  : white;
+  --pa-color-rgb-deep-purple-h  : 255, 255, 255;
 
-  --pa-bg-deep-purple-a     : var(--pa-bg-deep-purple-700);
+  --pa-bg-deep-purple-a     : var(--pa-bg-deep-purple-500);
+  --pa-bg-rgb-deep-purple-a     : var(--pa-bg-rgb-deep-purple-500);
   --pa-color-deep-purple-a  : white;
+  --pa-color-rgb-deep-purple-a  : 255, 255, 255;
 
   --pa-bg-deep-purple-f     : var(--pa-bg-deep-purple-500);
+  --pa-bg-rgb-deep-purple-f     : var(--pa-bg-rgb-deep-purple-500);
   --pa-color-deep-purple-f  : white;
+  --pa-color-rgb-deep-purple-f  : 255, 255, 255;
 
   --pa-bg-deep-purple-50  : #ede7f6;
   --pa-bg-deep-purple-100 : #d1c4e9;
@@ -21,6 +29,17 @@
   --pa-bg-deep-purple-700 : #512da8;
   --pa-bg-deep-purple-800 : #4527a0;
   --pa-bg-deep-purple-900 : #311b92;
+
+  --pa-bg-rgb-deep-purple-50:  237, 231, 246;
+  --pa-bg-rgb-deep-purple-100: 209, 196, 233;
+  --pa-bg-rgb-deep-purple-200: 179, 157, 219;
+  --pa-bg-rgb-deep-purple-300: 149, 117, 205;
+  --pa-bg-rgb-deep-purple-400: 126, 87, 194;
+  --pa-bg-rgb-deep-purple-500: 103, 58, 183;
+  --pa-bg-rgb-deep-purple-600: 94, 53, 177;
+  --pa-bg-rgb-deep-purple-700: 81, 45, 168;
+  --pa-bg-rgb-deep-purple-800: 69, 39, 160;
+  --pa-bg-rgb-deep-purple-900: 49, 27, 146;
 
   --pa-color-deep-purple-50  : #424242;
   --pa-color-deep-purple-100 : #424242;

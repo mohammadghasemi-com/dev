@@ -1,15 +1,23 @@
 :root{
   --pa-bg-lime     : var(--pa-bg-lime-500);
+  --pa-bg-rgb-lime     : var(--pa-bg-rgb-lime-500);
   --pa-color-lime  : white;
+  --pa-color-rgb-lime  : 255, 255, 255;
 
   --pa-bg-lime-h     : var(--pa-bg-lime-500);
+  --pa-bg-rgb-lime-h     : var(--pa-bg-rgb-lime-500);
   --pa-color-lime-h  : white;
+  --pa-color-rgb-lime-h  : 255, 255, 255;
 
   --pa-bg-lime-a     : var(--pa-bg-lime-500);
+  --pa-bg-rgb-lime-a     : var(--pa-bg-rgb-lime-500);
   --pa-color-lime-a  : white;
+  --pa-color-rgb-lime-a  : 255, 255, 255;
 
   --pa-bg-lime-f     : var(--pa-bg-lime-500);
+  --pa-bg-rgb-lime-f     : var(--pa-bg-rgb-lime-500);
   --pa-color-lime-f  : white;
+  --pa-color-rgb-lime-f  : 255, 255, 255;
 
   --pa-bg-lime-50  : #FAFFED;
   --pa-bg-lime-100 : #EFFCC4;

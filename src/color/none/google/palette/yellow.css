@@ -1,16 +1,24 @@
 :root{
   --pa-bg-yellow     : var(--pa-bg-yellow-500);
+  --pa-bg-rgb-yellow     : var(--pa-bg-rgb-yellow-500);
   --pa-color-yellow  : white;
+  --pa-color-rgb-yellow  : 255, 255, 255;
 
-  --pa-bg-yellow-h     : var(--pa-bg-yellow-600);
+  --pa-bg-yellow-h     : var(--pa-bg-yellow-500);
+  --pa-bg-rgb-yellow-h     : var(--pa-bg-rgb-yellow-500);
   --pa-color-yellow-h  : white;
+  --pa-color-rgb-yellow-h  : 255, 255, 255;
 
-  --pa-bg-yellow-a     : var(--pa-bg-yellow-700);
+  --pa-bg-yellow-a     : var(--pa-bg-yellow-500);
+  --pa-bg-rgb-yellow-a     : var(--pa-bg-rgb-yellow-500);
   --pa-color-yellow-a  : white;
+  --pa-color-rgb-yellow-a  : 255, 255, 255;
 
   --pa-bg-yellow-f     : var(--pa-bg-yellow-500);
+  --pa-bg-rgb-yellow-f     : var(--pa-bg-rgb-yellow-500);
   --pa-color-yellow-f  : white;
-
+  --pa-color-rgb-yellow-f  : 255, 255, 255;
+  
   --pa-bg-yellow-50  : #fffde7;
   --pa-bg-yellow-100 : #fff9c4;
   --pa-bg-yellow-200 : #fff59d;
@@ -21,6 +29,17 @@
   --pa-bg-yellow-700 : #fbc02d;
   --pa-bg-yellow-800 : #f9a825;
   --pa-bg-yellow-900 : #f57f17;
+
+  --pa-bg-rgb-yellow-50:  255, 253, 231;
+  --pa-bg-rgb-yellow-100: 255, 249, 196;
+  --pa-bg-rgb-yellow-200: 255, 245, 157;
+  --pa-bg-rgb-yellow-300: 255, 241, 118;
+  --pa-bg-rgb-yellow-400: 255, 238, 88;
+  --pa-bg-rgb-yellow-500: 255, 235, 59;
+  --pa-bg-rgb-yellow-600: 253, 216, 53;
+  --pa-bg-rgb-yellow-700: 251, 192, 45;
+  --pa-bg-rgb-yellow-800: 249, 168, 37;
+  --pa-bg-rgb-yellow-900: 245, 127, 23;
 
   --pa-color-yellow-50  : #424242;
   --pa-color-yellow-100 : #424242;

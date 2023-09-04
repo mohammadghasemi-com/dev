@@ -1,15 +1,23 @@
 :root{
   --pa-bg-purple     : var(--pa-bg-purple-500);
+  --pa-bg-rgb-purple     : var(--pa-bg-rgb-purple-500);
   --pa-color-purple  : white;
+  --pa-color-rgb-purple  : 255, 255, 255;
 
   --pa-bg-purple-h     : var(--pa-bg-purple-500);
+  --pa-bg-rgb-purple-h     : var(--pa-bg-rgb-purple-500);
   --pa-color-purple-h  : white;
+  --pa-color-rgb-purple-h  : 255, 255, 255;
 
   --pa-bg-purple-a     : var(--pa-bg-purple-500);
+  --pa-bg-rgb-purple-a     : var(--pa-bg-rgb-purple-500);
   --pa-color-purple-a  : white;
+  --pa-color-rgb-purple-a  : 255, 255, 255;
 
   --pa-bg-purple-f     : var(--pa-bg-purple-500);
+  --pa-bg-rgb-purple-f     : var(--pa-bg-rgb-purple-500);
   --pa-color-purple-f  : white;
+  --pa-color-rgb-purple-f  : 255, 255, 255;
 
   --pa-bg-purple-50  : #FAF2FC;
   --pa-bg-purple-100 : #F0D7F5;

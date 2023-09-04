@@ -1,15 +1,23 @@
 :root{
   --pa-bg-light-green     : var(--pa-bg-light-green-500);
+  --pa-bg-rgb-light-green     : var(--pa-bg-rgb-light-green-500);
   --pa-color-light-green  : white;
+  --pa-color-rgb-light-green  : 255, 255, 255;
 
   --pa-bg-light-green-h     : var(--pa-bg-light-green-500);
+  --pa-bg-rgb-light-green-h     : var(--pa-bg-rgb-light-green-500);
   --pa-color-light-green-h  : white;
+  --pa-color-rgb-light-green-h  : 255, 255, 255;
 
   --pa-bg-light-green-a     : var(--pa-bg-light-green-500);
+  --pa-bg-rgb-light-green-a     : var(--pa-bg-rgb-light-green-500);
   --pa-color-light-green-a  : white;
+  --pa-color-rgb-light-green-a  : 255, 255, 255;
 
   --pa-bg-light-green-f     : var(--pa-bg-light-green-500);
+  --pa-bg-rgb-light-green-f     : var(--pa-bg-rgb-light-green-500);
   --pa-color-light-green-f  : white;
+  --pa-color-rgb-light-green-f  : 255, 255, 255;
 
   --pa-bg-light-green-50  : #F2FDF2;
   --pa-bg-light-green-100 : #D7F8D8;

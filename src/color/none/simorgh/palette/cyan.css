@@ -1,15 +1,23 @@
 :root{
   --pa-bg-cyan     : var(--pa-bg-cyan-500);
+  --pa-bg-rgb-cyan     : var(--pa-bg-rgb-cyan-500);
   --pa-color-cyan  : white;
+  --pa-color-rgb-cyan  : 255, 255, 255;
 
   --pa-bg-cyan-h     : var(--pa-bg-cyan-500);
+  --pa-bg-rgb-cyan-h     : var(--pa-bg-rgb-cyan-500);
   --pa-color-cyan-h  : white;
+  --pa-color-rgb-cyan-h  : 255, 255, 255;
 
   --pa-bg-cyan-a     : var(--pa-bg-cyan-500);
+  --pa-bg-rgb-cyan-a     : var(--pa-bg-rgb-cyan-500);
   --pa-color-cyan-a  : white;
+  --pa-color-rgb-cyan-a  : 255, 255, 255;
 
   --pa-bg-cyan-f     : var(--pa-bg-cyan-500);
+  --pa-bg-rgb-cyan-f     : var(--pa-bg-rgb-cyan-500);
   --pa-color-cyan-f  : white;
+  --pa-color-rgb-cyan-f  : 255, 255, 255;
 
   --pa-bg-cyan-50  : #EDFFFA;
   --pa-bg-cyan-100 : #C4FCEE;
