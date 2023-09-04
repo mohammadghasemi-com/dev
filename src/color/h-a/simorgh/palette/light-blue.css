@@ -22,6 +22,17 @@
   --pa-bg-light-blue-800 : #008CAE;
   --pa-bg-light-blue-900 : #006179;
 
+  --pa-bg-rgb-light-blue-50:  242, 252, 255;
+  --pa-bg-rgb-light-blue-100: 215, 247, 255;
+  --pa-bg-rgb-light-blue-200: 188, 242, 255;
+  --pa-bg-rgb-light-blue-300: 148, 234, 255;
+  --pa-bg-rgb-light-blue-400: 67, 217, 255;
+  --pa-bg-rgb-light-blue-500: 0, 204, 255;
+  --pa-bg-rgb-light-blue-600: 0, 183, 228;
+  --pa-bg-rgb-light-blue-700: 0, 161, 201;
+  --pa-bg-rgb-light-blue-800: 0, 140, 174;
+  --pa-bg-rgb-light-blue-900: 0, 97, 121;
+
   --pa-color-light-blue-50  : #424242;
   --pa-color-light-blue-100 : #424242;
   --pa-color-light-blue-200 : #424242;

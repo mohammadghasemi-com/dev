@@ -22,6 +22,17 @@
   --pa-bg-primary-800 : #008607;
   --pa-bg-primary-900 : #007006;
 
+  --pa-bg-rgb-primary-50:  242, 253, 242;
+  --pa-bg-rgb-primary-100: 215, 248, 216;
+  --pa-bg-rgb-primary-200: 188, 244, 191;
+  --pa-bg-rgb-primary-300: 107, 230, 114;
+  --pa-bg-rgb-primary-400: 40, 219, 50;
+  --pa-bg-rgb-primary-500: 0, 212, 11;
+  --pa-bg-rgb-primary-600: 0, 190, 10;
+  --pa-bg-rgb-primary-700: 0, 167, 9;
+  --pa-bg-rgb-primary-800: 0, 134, 7;
+  --pa-bg-rgb-primary-900: 0, 112, 6;
+
   --pa-color-primary-50  : #424242;
   --pa-color-primary-100 : #424242;
   --pa-color-primary-200 : #424242;

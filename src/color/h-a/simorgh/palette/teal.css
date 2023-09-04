@@ -22,6 +22,17 @@
   --pa-bg-teal-800 : #00655E;
   --pa-bg-teal-900 : #004641;
 
+  --pa-bg-rgb-teal-50:  242, 249, 249;
+  --pa-bg-rgb-teal-100: 215, 238, 237;
+  --pa-bg-rgb-teal-200: 188, 227, 224;
+  --pa-bg-rgb-teal-300: 94, 187, 181;
+  --pa-bg-rgb-teal-400: 27, 159, 150;
+  --pa-bg-rgb-teal-500: 0, 148, 138;
+  --pa-bg-rgb-teal-600: 0, 132, 123;
+  --pa-bg-rgb-teal-700: 0, 117, 109;
+  --pa-bg-rgb-teal-800: 0, 101, 94;
+  --pa-bg-rgb-teal-900: 0, 70, 65;
+
   --pa-color-teal-50  : #424242;
   --pa-color-teal-100 : #424242;
   --pa-color-teal-200 : #424242;

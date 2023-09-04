@@ -22,6 +22,17 @@
   --pa-bg-yellow-800 : #C1C100;
   --pa-bg-yellow-900 : #848400;
 
+  --pa-bg-rgb-yellow-50:  255, 255, 237;
+  --pa-bg-rgb-yellow-100: 255, 255, 200;
+  --pa-bg-rgb-yellow-200: 255, 255, 164;
+  --pa-bg-rgb-yellow-300: 255, 255, 128;
+  --pa-bg-rgb-yellow-400: 255, 255, 73;
+  --pa-bg-rgb-yellow-500: 255, 255, 0;
+  --pa-bg-rgb-yellow-600: 237, 237, 0;
+  --pa-bg-rgb-yellow-700: 211, 211, 0;
+  --pa-bg-rgb-yellow-800: 193, 193, 0;
+  --pa-bg-rgb-yellow-900: 132, 132, 0;
+
   --pa-color-yellow-50  : #424242;
   --pa-color-yellow-100 : #424242;
   --pa-color-yellow-200 : #424242;

@@ -22,6 +22,17 @@
   --pa-bg-blue-gray-800 : #2A4F62;
   --pa-bg-blue-gray-900 : #1D3744;
 
+  --pa-bg-rgb-blue-gray-50  : 245, 248, 249;
+  --pa-bg-rgb-blue-gray-100 : 224, 233, 237;
+  --pa-bg-rgb-blue-gray-200 : 204, 218, 226;
+  --pa-bg-rgb-blue-gray-300 : 132, 167, 184;
+  --pa-bg-rgb-blue-gray-400 : 92, 138, 161;
+  --pa-bg-rgb-blue-gray-500 : 61, 116, 143;
+  --pa-bg-rgb-blue-gray-600 : 55, 104, 128;
+  --pa-bg-rgb-blue-gray-700 : 48, 92, 113;
+  --pa-bg-rgb-blue-gray-800 : 42, 79, 98;
+  --pa-bg-rgb-blue-gray-900 : 29, 55, 68;
+
   --pa-color-blue-gray-50  : #424242;
   --pa-color-blue-gray-100 : #424242;
   --pa-color-blue-gray-200 : #424242;

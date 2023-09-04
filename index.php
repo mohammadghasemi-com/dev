@@ -34,12 +34,13 @@
     <link rel="stylesheet" href="https://cdn1.simorgh.app/simorgh/v3/color/primary-class.css" type="text/css">
     <link rel="stylesheet" href="https://cdn1.simorgh.app/simorgh/v3/color/secondary-class.css" type="text/css">-->
     <!-- bootstrap -->
-    <link rel="stylesheet" href="https://simorghbu.github.io/dev/cdn/bootstrap.rtl.css">
+<!--    <link rel="stylesheet" href="https://simorghbu.github.io/dev/cdn/bootstrap.rtl.css">-->
 <!--    <link rel="stylesheet" href="./dist/bootstrap.css">-->
-<!--    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">-->
+    <link rel="stylesheet" href="./cdn/bootstrap/v5.3.1/style.rtl.css">
+<!--    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet">-->
 
 </head>
-<body>
+<body data-bs-theme="light">
     <button type="button" class="btn btn-lg btn-outline-primary">تست اصلی</button>
     <button type="button" class="btn btn-lg btn-primary">تست اصلی</button>
     <button type="button" class="btn btn-lg btn-secondary">Secondary</button>

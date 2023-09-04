@@ -22,6 +22,17 @@
   --pa-bg-admin-panel-800 : #C10067;
   --pa-bg-admin-panel-900 : #A70059;
 
+  --pa-bg-rgb-admin-panel-50:  255, 242, 249;
+  --pa-bg-rgb-admin-panel-100: 255, 215, 236;
+  --pa-bg-rgb-admin-panel-200: 255, 174, 217;
+  --pa-bg-rgb-admin-panel-300: 255, 107, 186;
+  --pa-bg-rgb-admin-panel-400: 255, 54, 161;
+  --pa-bg-rgb-admin-panel-500: 255, 0, 136;
+  --pa-bg-rgb-admin-panel-600: 237, 0, 127;
+  --pa-bg-rgb-admin-panel-700: 220, 0, 117;
+  --pa-bg-rgb-admin-panel-800: 193, 0, 103;
+  --pa-bg-rgb-admin-panel-900: 167, 0, 89;
+
   --pa-color-admin-panel-50  : #424242;
   --pa-color-admin-panel-100 : #424242;
   --pa-color-admin-panel-200 : #424242;

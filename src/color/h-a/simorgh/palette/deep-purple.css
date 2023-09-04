@@ -22,6 +22,17 @@
   --pa-bg-deep-purple-800 : #4F0C86;
   --pa-bg-deep-purple-900 : #37095D;
 
+  --pa-bg-rgb-deep-purple-50:  248, 243, 252;
+  --pa-bg-rgb-deep-purple-100: 233, 218, 246;
+  --pa-bg-rgb-deep-purple-200: 211, 180, 236;
+  --pa-bg-rgb-deep-purple-300: 167, 105, 218;
+  --pa-bg-rgb-deep-purple-400: 131, 43, 202;
+  --pa-bg-rgb-deep-purple-500: 116, 18, 196;
+  --pa-bg-rgb-deep-purple-600: 104, 16, 175;
+  --pa-bg-rgb-deep-purple-700: 92, 14, 155;
+  --pa-bg-rgb-deep-purple-800: 79, 12, 134;
+  --pa-bg-rgb-deep-purple-900: 55, 9, 93;
+
   --pa-color-deep-purple-50  : #424242;
   --pa-color-deep-purple-100 : #424242;
   --pa-color-deep-purple-200 : #424242;

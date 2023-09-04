@@ -22,6 +22,17 @@
   --pa-bg-light-green-800 : #008607;
   --pa-bg-light-green-900 : #007006;
 
+  --pa-bg-rgb-light-green-50:  242, 253, 242;
+  --pa-bg-rgb-light-green-100: 215, 248, 216;
+  --pa-bg-rgb-light-green-200: 188, 244, 191;
+  --pa-bg-rgb-light-green-300: 107, 230, 114;
+  --pa-bg-rgb-light-green-400: 40, 219, 50;
+  --pa-bg-rgb-light-green-500: 0, 212, 11;
+  --pa-bg-rgb-light-green-600: 0, 190, 10;
+  --pa-bg-rgb-light-green-700: 0, 167, 9;
+  --pa-bg-rgb-light-green-800: 0, 134, 7;
+  --pa-bg-rgb-light-green-900: 0, 112, 6;
+
   --pa-color-light-green-50  : #424242;
   --pa-color-light-green-100 : #424242;
   --pa-color-light-green-200 : #424242;

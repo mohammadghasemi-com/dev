@@ -22,6 +22,19 @@
   --pa-bg-cyan-800 : #069B74;
   --pa-bg-cyan-900 : #058765;
 
+
+  --pa-bg-rgb-cyan-50  : 237, 255, 250;
+  --pa-bg-rgb-cyan-100 : 196, 252, 238;
+  --pa-bg-rgb-cyan-200 : 157, 249, 226;
+  --pa-bg-rgb-cyan-300 : 119, 249, 216;
+  --pa-bg-rgb-cyan-400 : 22, 244, 187;
+  --pa-bg-rgb-cyan-500 : 11, 234, 177;
+  --pa-bg-rgb-cyan-600 : 9, 193, 146;
+  --pa-bg-rgb-cyan-700 : 7, 178, 134;
+  --pa-bg-rgb-cyan-800 : 6, 155, 116;
+  --pa-bg-rgb-cyan-900 : 5, 135, 101;
+
+
   --pa-color-cyan-50  : #424242;
   --pa-color-cyan-100 : #424242;
   --pa-color-cyan-200 : #424242;

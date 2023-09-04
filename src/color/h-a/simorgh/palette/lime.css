@@ -22,6 +22,17 @@
   --pa-bg-lime-800 : #779B06;
   --pa-bg-lime-900 : #678705;
 
+  --pa-bg-rgb-lime-50:  250, 255, 237;
+  --pa-bg-rgb-lime-100: 239, 252, 196;
+  --pa-bg-rgb-lime-200: 227, 249, 157;
+  --pa-bg-rgb-lime-300: 218, 249, 119;
+  --pa-bg-rgb-lime-400: 190, 244, 22;
+  --pa-bg-rgb-lime-500: 180, 234, 11;
+  --pa-bg-rgb-lime-600: 149, 193, 9;
+  --pa-bg-rgb-lime-700: 137, 178, 7;
+  --pa-bg-rgb-lime-800: 119, 155, 6;
+  --pa-bg-rgb-lime-900: 103, 135, 5;
+
   --pa-color-lime-50  : #424242;
   --pa-color-lime-100 : #424242;
   --pa-color-lime-200 : #424242;

@@ -22,6 +22,17 @@
   --pa-bg-pink-800 : #C10067;
   --pa-bg-pink-900 : #A70059;
 
+  --pa-bg-rgb-pink-50:  255, 242, 249;
+  --pa-bg-rgb-pink-100: 255, 215, 236;
+  --pa-bg-rgb-pink-200: 255, 174, 217;
+  --pa-bg-rgb-pink-300: 255, 107, 186;
+  --pa-bg-rgb-pink-400: 255, 54, 161;
+  --pa-bg-rgb-pink-500: 255, 0, 136;
+  --pa-bg-rgb-pink-600: 237, 0, 127;
+  --pa-bg-rgb-pink-700: 220, 0, 117;
+  --pa-bg-rgb-pink-800: 193, 0, 103;
+  --pa-bg-rgb-pink-900: 167, 0, 89;
+
   --pa-color-pink-50  : #424242;
   --pa-color-pink-100 : #424242;
   --pa-color-pink-200 : #424242;

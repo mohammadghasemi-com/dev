@@ -22,6 +22,17 @@
   --pa-bg-secondary-800 : #BC3500;
   --pa-bg-secondary-900 : #942A00;
 
+  --pa-bg-rgb-secondary-50  : 255, 245, 242;
+  --pa-bg-rgb-secondary-100 : 255, 226, 215;
+  --pa-bg-rgb-secondary-200 : 255, 207, 188;
+  --pa-bg-rgb-secondary-300 : 255, 111, 54;
+  --pa-bg-rgb-secondary-400 : 255, 91, 27;
+  --pa-bg-rgb-secondary-500 : 255, 72, 0;
+  --pa-bg-rgb-secondary-600 : 228, 64, 0;
+  --pa-bg-rgb-secondary-700 : 201, 57, 0;
+  --pa-bg-rgb-secondary-800 : 188, 53, 0;
+  --pa-bg-rgb-secondary-900 : 148, 42, 0;
+
   --pa-color-secondary-50  : #424242;
   --pa-color-secondary-100 : #424242;
   --pa-color-secondary-200 : #424242;

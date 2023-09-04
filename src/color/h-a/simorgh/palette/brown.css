@@ -22,6 +22,17 @@
   --pa-bg-brown-800 : #965F20;
   --pa-bg-brown-900 : #894C06;
 
+  --pa-bg-rgb-brown-50  : 254, 246, 236;
+  --pa-bg-rgb-brown-100 : 241, 227, 210;
+  --pa-bg-rgb-brown-200 : 228, 208, 185;
+  --pa-bg-rgb-brown-300 : 215, 189, 159;
+  --pa-bg-rgb-brown-400 : 202, 170, 134;
+  --pa-bg-rgb-brown-500 : 189, 152, 108;
+  --pa-bg-rgb-brown-600 : 176, 133, 83;
+  --pa-bg-rgb-brown-700 : 163, 114, 57;
+  --pa-bg-rgb-brown-800 : 150, 95, 32;
+  --pa-bg-rgb-brown-900 : 137, 76, 6;
+
   --pa-color-brown-50  : #424242;
   --pa-color-brown-100 : #424242;
   --pa-color-brown-200 : #424242;
