@@ -40,7 +40,7 @@
 <!--    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet">-->
 
 </head>
-<body data-bs-theme="light">
+<body data-bs-theme="dark">
     <button type="button" class="btn btn-lg btn-outline-primary">تست اصلی</button>
     <button type="button" class="btn btn-lg btn-primary">تست اصلی</button>
     <button type="button" class="btn btn-lg btn-secondary">Secondary</button>
