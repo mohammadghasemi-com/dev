@@ -41,6 +41,7 @@ module.exports = {
     },
     entry: {
         // portal:'./resources/template/portal/__style.js',
+        api_flex:'./src/js/api_flex.js',
         bootstrap:'./src/js/bootstrap.js',
         attach:'./src/js/attach.js',
     },
